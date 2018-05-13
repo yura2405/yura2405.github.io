@@ -1,0 +1,46 @@
+.resize {
+	width: 960px;
+	height: 930px;
+}
+h1, h2, h3 {
+	color: #023875;
+}
+header {
+	width: 960px;
+	height: 42px;
+	background-color: #023875;
+	border-radius: 6px;
+
+}
+.logo {
+	width: 425px;
+	height: 115px;
+	margin: 0;	
+}
+.contact {
+	float: right;
+}
+.citi {
+	width: 930px;
+	height: 200px;
+	background: url(imeges/kolesov.png) center center no-repeat;
+	right: 15px;
+}
+.content {
+	width: 960px;
+	height: 400px;
+}
+.article {
+	width: 640px;
+	height: 385px;
+	float: left;
+}
+.menu {
+
+}
+.footer {
+	width: 960px;
+	height: 42px;
+	background-color: #023875;
+	border-radius: 6px;
+}
